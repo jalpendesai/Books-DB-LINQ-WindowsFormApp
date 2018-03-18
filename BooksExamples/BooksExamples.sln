@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksExamples", "BooksExamples\BooksExamples.csproj", "{FAC3E384-C040-4C43-8FB5-CC4A882D42E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinQueries", "JoinQueries\JoinQueries.csproj", "{5A88A746-8A3E-401D-ACDA-7D9100971A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC3E384-C040-4C43-8FB5-CC4A882D42E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC3E384-C040-4C43-8FB5-CC4A882D42E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC3E384-C040-4C43-8FB5-CC4A882D42E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC3E384-C040-4C43-8FB5-CC4A882D42E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A88A746-8A3E-401D-ACDA-7D9100971A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A88A746-8A3E-401D-ACDA-7D9100971A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A88A746-8A3E-401D-ACDA-7D9100971A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A88A746-8A3E-401D-ACDA-7D9100971A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CD87A74-0FC8-4E57-85FE-992F9F52D29D}
+	EndGlobalSection
+EndGlobal
